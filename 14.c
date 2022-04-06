@@ -33,6 +33,7 @@ int main(){
   topsort(*g,n,indeg,v,zeroindegree(indeg,n,v));
   return(0);
 }
+
 /*
 Example :
 
